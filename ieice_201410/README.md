@@ -15,4 +15,5 @@
 [著作者の利用権利](http://www.ieice.org/jpn/about/kitei/files/chosaku_hyou3.pdf "本会出版物に掲載された論文等の著作物の利用申請基準")
 に基づき公開します．
 
-[電子情報通信学会へ](http://www.ieice.org/ "電子情報通信学会")
+[電子情報通信学会の論文掲載ページヘ](http://search.ieice.org/bin/summary.php?id=j97-b_10_873 "電子情報通信学会 論文掲載ページ")
+[電子情報通信学会のトップページへ](http://www.ieice.org/ "電子情報通信学会")
