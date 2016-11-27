@@ -11,8 +11,8 @@
                    Takeshi Takahashi and
                    Ruo Ando and
                    Tomoya Inoue},
-      title     = {MindYourPrivacy: Design and implementation of a visualization system
-                   for third-party Web tracking},
+      title     = "{MindYourPrivacy: Design and implementation of a visualization system
+                   for third-party Web tracking}",
       booktitle = {2014 Twelfth Annual International Conference on Privacy, Security
                    and Trust, Toronto, ON, Canada, July 23-24, 2014},
       pages     = {48--56},

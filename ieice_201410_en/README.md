@@ -14,7 +14,7 @@
       title     = "{The Ecology of DNS Open Resolvers}",
       journal   = {IEICE Transaction B},
       volume    = {J97-B},
-      pages     = {873-889},
+      pages     = {873--889},
       number    = {10},
       year      = {2014},
     }
